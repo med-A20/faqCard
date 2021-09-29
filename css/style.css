@@ -208,6 +208,9 @@
         display: none;
     }
 
+    .imgIll::before{
+        display: none;
+    }
     .main {
         position: relative;
     }
